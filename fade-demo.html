@@ -1,0 +1,38 @@
+<!doctype html>
+<html>
+  <head>
+<style>
+
+body {
+  --black: #111;
+}
+
+#fadeAnimationCanvas {
+  width: 600px;
+  height: 600px;
+  border: 10px solid var(--black);
+}
+
+</style>
+  </head>
+  <body>
+    <canvas id="fadeAnimationCanvas"/>
+
+<script type="text/javascript">
+(function() {
+  const canvas = document.getElementById("fadeAnimationCanvas");
+  render(
+    canvas.getContext("2d"),
+    canvas.width,
+    canvas.height,
+    Date.now()
+  )
+
+  function render(ctx, w, h) {
+    ctx.fillStyle = "red";
+    ctx.fillRect(0, 0, w/2, h/2);
+  }
+})()
+</script>
+  </body>
+</html>
