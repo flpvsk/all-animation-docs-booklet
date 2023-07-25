@@ -15,8 +15,7 @@ and feedback machines: mixers, gates, auto-swell and tremolo
 effects. Control it using CV or Expression, or use *it* to
 control other CV-enabled devices.
 
-> The first batch of All Animation ships in September 2022.
-> [Pre-order yours from Pedal Markt.](https://pedalmarkt.com/products/akkusativ-all-animation-dynamic-effects-mixer)
+> All Animation [is available through Pedal Markt.](https://pedalmarkt.com/products/akkusativ-all-animation-dynamic-effects-mixer)
 
 
 <iframe src="https://www.youtube.com/embed/BSyvsNLPxbg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -104,8 +103,11 @@ follower. The `form` toggle controls the shape of the TRACE
 output, the options are gate, continuos or trigger.
 
 
-> The first batch of All Animation ships in September 2022.
-> [Pre-order yours from Pedal Markt.](https://pedalmarkt.com/products/akkusativ-all-animation-dynamic-effects-mixer)
+> All Animation [is available through Pedal Markt.](https://pedalmarkt.com/products/akkusativ-all-animation-dynamic-effects-mixer)
+
+## Documentation
+
+[Download All Animation Pocket Companion](/pdf/all-animation-pocket-companion.pdf)
 
 ## Newsletter and socials
 
